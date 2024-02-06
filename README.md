@@ -74,3 +74,8 @@ def run_alexa():
         time = datetime.datetime.now().strftime('%I:%M %p')
         print(time)
         talk('Current time is ' + time)
+
+```
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/KYpHf1cF/IMG-20240206-WA0002.jpg' border='0' alt='IMG-20240206-WA0002'/></a>
+
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/90htY29C/IMG-20240206-WA0001.jpg' border='0' alt='IMG-20240206-WA0001'/></a><br /><a href='https://postimages.org/'>host pictures</a><br />
