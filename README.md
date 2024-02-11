@@ -62,6 +62,7 @@ def run_alexa():
         print(time)
 
 
+
         talk('Current time is ' + time)replace('bindu', '')
     except:
         pass
@@ -76,6 +77,10 @@ def run_alexa():
         talk('Current time is ' + time)
 
 ```
+### Virtual Assistant
 
+This virtual assistant name is Bindu.
+Bindubasini To Bindu.Make By Samir Talukder Apurbo.
 
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/90htY29C/IMG-20240206-WA0001.jpg' border='0' alt='IMG-20240206-WA0001'/></a>
+
